@@ -1,0 +1,81 @@
+body {
+    background-color: #393E46;
+    margin: 0;
+    overflow: inherit;
+}
+
+a {
+    text-decoration: none;
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    color: black;
+}
+
+nav {
+    background-color: #D65A31;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+abbr {
+    text-decoration: none;
+}
+
+header {    
+    float: right;
+    margin-right: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#image {
+    float: left;
+    text-align: center;
+}
+
+#card {
+    text-align: center;
+    border: 2px solid black;
+    margin-inline: 500px;
+    margin-top: 20px;
+    padding: 20px;
+    height: 550px;
+    background-color: #eee;
+    box-shadow: 10px 10px 10px #D65A31;
+}
+
+input[type='button'] {
+    border: none;
+    padding: 15px;
+    width: 100px;
+    height: 50px;
+    background-color: #393E46;
+    color: #eee;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input[type='text'] {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #D65A31;
+    color: #D65A31;
+}
+
+p {
+    font-size: 120%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150%;
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+    clear: both;
+    padding: 20px;
+}
+
